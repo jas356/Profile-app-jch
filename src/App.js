@@ -6,8 +6,8 @@ import Quote from './components/Quote.jsx';
 import Video from './components/Video.jsx';
 import HeroBanner from './components/HeroBanner.jsx';
 
-import "bootstrap/dist/css/bootstrap.min.css";
 import './App.css';
+import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   return (
